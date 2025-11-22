@@ -21,7 +21,7 @@ This project was created as part of the Artiset interview process for the Data S
 3. Execute the queries to get results
 
 Prepared by: Hatim Sidhpur wala
-7427068253
-hatim.sidhpurwala@spsu.ac.in
+ph-+91 7427068253
+Gmail-hatim.sidhpurwala@spsu.ac.in
 BTech CSE Final Year 
 SPSU Udaipur 
