@@ -12,7 +12,7 @@ This project was created as part of the Artiset interview process for the Data S
 - Query to calculate total spending for each customer
 
 ## Technology Used
-- MySQL (Online Compiler)
+- MySQL
 - GitHub for submission
 
 ## How to run
